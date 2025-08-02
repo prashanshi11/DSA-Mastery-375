@@ -1,4 +1,5 @@
 # DSA-Mastery-375
+
  
 Welcome to **DSA-Mastery-375**, your complete roadmap to master Data Structures and Algorithms in **30 Days**. This repository contains a **curated list of 375 essential DSA problems** covering all major topics, with **clean Python solutions** and **concise theory revision** for each concept.
 
